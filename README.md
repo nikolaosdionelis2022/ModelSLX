@@ -1,2 +1,2 @@
-# ModelBSS
-Proposed Model BSS
+# ModelSLX
+Proposed Model SLX
